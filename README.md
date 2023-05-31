@@ -11,7 +11,7 @@ git init
 ```
 git add .
 ```
-. is for current directory
+`. is for current directory`
 
 3. Now give a commit 
 ```
